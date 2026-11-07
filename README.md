@@ -10,4 +10,5 @@ Mein Weg zum AI Software Engineer: Python, LLMs, RAG, Agenten, MCP.
 ## 2026-11-07
 - Gelernt: `.gitignore` (z. B. `__pycache__`), Lizenz (MIT), `git remote add`, `git log --oneline`, `push --force` nur bei leerer GitHub-Vorlage, LF/CRLF-Warnung ist harmlos
 - Gebaut: Repo `CoreKeeperBot` (KI-Agent: C#-Mod + Python + Ollama) und Profil-README `nRPLK/nRPLK` auf GitHub
-- Offen: CoreKeeperBot auf dem Profil anheften, Repo-Topics ergänzen
+- Python Übung 01 (`python/01_resonanz.py`): erstes Python-Programm, Reihenschwingkreis f_r, Q, B, U_L – Variablen, `math`, f-Strings; Python wird interpretiert, nicht kompiliert
+- Offen: Bonus `impedanz(f)` (Funktionen), CoreKeeperBot auf dem Profil anheften, Repo-Topics ergänzen
