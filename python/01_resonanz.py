@@ -51,5 +51,8 @@ def impedanz(f):
     return math.sqrt(quadrat(R)+quadrat(X_L-X_C))
 
 print(f"|Z| bei 0.8= {impedanz(0.8*f_r):.2f}")
-print(f"|Z|= {impedanz(f_r)}")
+print(f"|Z|= {impedanz(f_r):.2f}")
 print(f"|Z| bei 1.25= {impedanz(1.25*f_r):.2f}")
+
+for i in range(50,751,100):
+    print(f"|Z| bei {i}={impedanz(i):.2f}")
